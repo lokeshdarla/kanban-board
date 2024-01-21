@@ -5,7 +5,6 @@ export type Task = {
   id: string,
   status: Status,
   priority: Priority,
-  points?: number
 }
 
 export const statuses: Status[] = ['todo', 'in-progress', 'done']

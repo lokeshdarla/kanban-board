@@ -4,57 +4,49 @@
       "id": "BUS-1",
       "title": "Market research",
       "status": "todo",
-      "priority": "high",
-      "points": 8
+      "priority": "high"
     },
     {
       "id": "BUS-2",
       "title": "Competitor analysis",
-      "status": "in-progress",
-      "priority": 5,
-      "points": 13
+      "status": "done",
+      "priority": "high"
     },
     {
       "id": "BUS-3",
       "title": "Develop business strategy",
-      "status": "done",
-      "priority": "high",
-      "points": 3
+      "status": "in-progress",
+      "priority": "high"
     },
     {
       "id": "BUS-4",
       "title": "Identify potential partners",
-      "status": "todo",
-      "priority": "medium",
-      "points": 2
+      "status": "in-progress",
+      "priority": "medium"
     },
     {
       "id": "BUS-5",
       "title": "Negotiate partnerships",
-      "status": "in-progress",
-      "priority": "low",
-      "points": 1
+      "status": "done",
+      "priority": "low"
     },
     {
       "id": "BUS-6",
       "title": "Develop marketing plan",
-      "status": "done",
-      "priority": "high",
-      "points": 13
+      "status": "in-progress",
+      "priority": "high"
     },
     {
       "id": "BUS-7",
       "title": "Implement marketing plan",
-      "status": "done",
-      "priority": "high",
-      "points": 8
+      "status": "todo",
+      "priority": "high"
     },
     {
       "id": "BUS-8",
       "title": "Evaluate business performance",
       "status": "in-progress",
-      "priority": "medium",
-      "points": 3
+      "priority": "medium"
     }
   ]
 }
