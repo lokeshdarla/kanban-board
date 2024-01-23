@@ -1,28 +1,16 @@
 {
   "tasks": [
     {
-      "id": "BUS-1",
-      "title": "Market research",
-      "status": "todo",
-      "priority": "high"
-    },
-    {
       "id": "BUS-2",
-      "title": "Competitor analysis",
-      "status": "done",
+      "title": "Competitor Analysis",
+      "status": "in-progress",
       "priority": "high"
     },
     {
       "id": "BUS-3",
       "title": "Develop business strategy",
-      "status": "in-progress",
+      "status": "done",
       "priority": "high"
-    },
-    {
-      "id": "BUS-4",
-      "title": "Identify potential partners",
-      "status": "in-progress",
-      "priority": "medium"
     },
     {
       "id": "BUS-5",
@@ -33,18 +21,42 @@
     {
       "id": "BUS-6",
       "title": "Develop marketing plan",
-      "status": "in-progress",
-      "priority": "high"
-    },
-    {
-      "id": "BUS-7",
-      "title": "Implement marketing plan",
       "status": "todo",
       "priority": "high"
     },
     {
       "id": "BUS-8",
       "title": "Evaluate business performance",
+      "status": "done",
+      "priority": "medium"
+    },
+    {
+      "id": "BUS-91",
+      "title": "This is task one",
+      "status": "in-progress",
+      "priority": "low"
+    },
+    {
+      "id": "BUS-101",
+      "title": "This is task two",
+      "status": "done",
+      "priority": "low"
+    },
+    {
+      "id": "BUS-111",
+      "title": "This is task three",
+      "status": "todo",
+      "priority": "high"
+    },
+    {
+      "id": "BUS-131",
+      "title": "Create budget proposal",
+      "status": "todo",
+      "priority": "high"
+    },
+    {
+      "id": "BUS-141",
+      "title": "Hire new team members",
       "status": "in-progress",
       "priority": "medium"
     }
