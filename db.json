@@ -27,13 +27,13 @@
     {
       "id": "BUS-8",
       "title": "Evaluate business performance",
-      "status": "done",
+      "status": "in-progress",
       "priority": "medium"
     },
     {
       "id": "BUS-91",
       "title": "This is task one",
-      "status": "in-progress",
+      "status": "todo",
       "priority": "low"
     },
     {
@@ -45,13 +45,13 @@
     {
       "id": "BUS-111",
       "title": "This is task three",
-      "status": "todo",
+      "status": "in-progress",
       "priority": "high"
     },
     {
       "id": "BUS-131",
       "title": "Create budget proposal",
-      "status": "todo",
+      "status": "done",
       "priority": "high"
     },
     {
@@ -59,6 +59,18 @@
       "title": "Hire new team members",
       "status": "in-progress",
       "priority": "medium"
+    },
+    {
+      "id": "BUS-101",
+      "title": "Express JS ",
+      "status": "todo",
+      "priority": "low"
+    },
+    {
+      "id": "BUS-111",
+      "title": "Prisma ORM",
+      "status": "todo",
+      "priority": "high"
     }
   ]
 }
